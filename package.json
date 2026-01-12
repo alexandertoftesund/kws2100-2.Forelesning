@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "vite build",
     "test": "prettier --check .",
     "dev": "vite"
   },
